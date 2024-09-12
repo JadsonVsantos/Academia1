@@ -59,7 +59,7 @@
   
   .hero {
 	height: 100vh;
-	background: url('gym-background.jpg') no-repeat center center/cover;
+	background: url('imagens/Logo\ da\ academia.png') no-repeat center center/cover;
 	display: flex;
 	justify-content: center;
 	align-items: center;
