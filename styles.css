@@ -58,7 +58,7 @@
   }
   
   .hero {
-	height: 100vh;
+	height: 80vw;
 	background: url('imagens/Logo\ da\ academia.png') no-repeat center center/cover;
 	display: flex;
 	justify-content: center;
